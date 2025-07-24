@@ -74,7 +74,7 @@ function App() {
             <input type="radio" id="js" name="fav_lang" value="JavaScript" />
             <label htmlFor="js">JavaScript</label><br />
 
-            <label>Tools You Use:</label><br />
+            <label>Tools I Use:</label><br />
             <input type="checkbox" id="vs" name="tools" value="VSCode" />
             <label htmlFor="vs">VS Code</label><br />
             <input type="checkbox" id="git" name="tools" value="Git" />
